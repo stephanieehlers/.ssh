@@ -1,0 +1,7 @@
+#Docker EC2 LUIT
+Host Docker
+    #IPV4 Address will change every time
+    HostName 54.210.151.58
+    User ubuntu
+    IdentityFile C:\Users\steph\Downloads\Ubuntu_Practice_key.pem
+    
